@@ -1,3 +1,3 @@
 # alpine-ssh
 
-Customer alpine image running sshd for use with Containerlab
+Custom alpine image running sshd for use with Containerlab
